@@ -16,6 +16,6 @@ advanced:
   css_style:
   css_class:
 ---
-Biomettha Eco Research specialises in  research, consultancy, and diagnostic services in the field of aquaculture.  Mentored by scientists from Central Institute of Brackishwater Aquaculture (ICAR), we spearhead a -- *digitally science based approach* -- in colloboration with consultants, farmers, and research groups, since 2015.
+Biomettha Eco Research specializes in research, consultancy, and diagnostic services in aquaculture. Mentored by scientists from Central Institute of Brackishwater Aquaculture (ICAR), we spearhead a -- *digitally science based approach* -- in collaboration with consultants, farmers, and research groups, since 2015.
 
 

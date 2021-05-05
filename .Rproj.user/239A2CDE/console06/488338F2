@@ -12,4 +12,20 @@ fonts	themes
 ]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ touch minimal.toml
 ]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ ls
 my_font_set.toml
-]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ stop[K[K[K[K
+]0;~/Documents/biomettha_portal/biomettha[?1034h(base) Maghimais-MBP:biomettha maghimaimarcus$ getwd()
+> 
+]0;~/Documents/biomettha_portal/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ 
+]0;~/Documents/biomettha_portal/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ pwd
+/Users/maghimaimarcus/Documents/biomettha_portal/biomettha
+]0;~/Documents/biomettha_portal/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ ls
+LICENSE.md		config.yaml		preview.png
+R			content			removed_sections
+README.md		data			resources
+archetypes		index.Rmd		static
+assets			layouts			themes
+biomettha.Rproj		main
+config			netlify.toml
+]0;~/Documents/biomettha_portal/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ git remote -v
+origin	https://github.com/iamihgam/biomettha.git (fetch)
+origin	https://github.com/iamihgam/biomettha.git (push)
+]0;~/Documents/biomettha_portal/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ git add .

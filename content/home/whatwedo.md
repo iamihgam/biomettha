@@ -18,6 +18,6 @@ advanced:
   css_style:
   css_class:
 ---
-Our primary concern is to satisfy -- chemistry, microbiology, molecular biology, and phycology -- needs of our farmers. Our labs are equipped with necessary equipments such as spectrophotometer, refractometer, microscope, ultra-centrifuge, thermocycler, and freezer in pursuit of our objectives. We also undertake research and developmental activities in quality control and  sustainability.
+Our primary concern is to satisfy -- chemistry, microbiology, molecular biology, and phycology -- needs of our farmers. Our labs are equipped with necessary instruments such as spectrophotometer, refractometer, microscope, ultra-centrifuge, thermocycler, and freezer in pursuit of our objectives. We also undertake research and developmental activities in quality control and sustainability.
 
 

@@ -16,6 +16,6 @@ advanced:
   css_style:
   css_class:
 ---
-Research is an integral part of our DNA. To aid R&D, we built our digital infrastructure in-house that integrates with our wet lab; It evolves as our needs grow. Empirical analysis, statistical computing techniques, spatial analysis, and  traceability tools are some of our key interests in assisting profitable aquaculture to our farmers.  
+Research is an integral part of our DNA. To aid R&D, we built our digital infrastructure in-house that integrates with our wet lab; It evolves as our needs grow. Empirical analysis, statistical computing techniques, spatial analysis, and traceability tools are some of our key interests in assisting profitable aquaculture to our farmers.  
 
 
