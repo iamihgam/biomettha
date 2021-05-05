@@ -1,0 +1,15 @@
+]0;~/Documents/websites/biomettha[?1034h(base) Maghimais-MBP:biomettha maghimaimarcus$ ls
+LICENSE.md	biomettha.Rproj	index.Rmd	static
+R		config		layouts		themes
+README.md	config.yaml	netlify.toml
+archetypes	content		preview.png
+assets		data		resources
+]0;~/Documents/websites/biomettha(base) Maghimais-MBP:biomettha maghimaimarcus$ cd data
+]0;~/Documents/websites/biomettha/data(base) Maghimais-MBP:data maghimaimarcus$ ls
+fonts	themes
+]0;~/Documents/websites/biomettha/data(base) Maghimais-MBP:data maghimaimarcus$ cd fonts
+]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ ls
+]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ touch minimal.toml
+]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ ls
+my_font_set.toml
+]0;~/Documents/websites/biomettha/data/fonts(base) Maghimais-MBP:fonts maghimaimarcus$ stop[K[K[K[K

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619432070719.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3582708218",
+    "id" : "F2E8A00D",
+    "lastKnownWriteTime" : 1619435771,
+    "last_content_update" : 1619435771586,
+    "path" : "~/Documents/websites/biomettha/content/post/2020-12-01-r-rmarkdown/index.en.Rmd",
+    "project_path" : "content/post/2020-12-01-r-rmarkdown/index.en.Rmd",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "last_setup_crc32" : "230E94BC86caa7c1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
