@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
 title: "What we do"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: group_labpix.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
